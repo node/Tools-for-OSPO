@@ -49,15 +49,23 @@
 - GitHub Insight
 - OSS Insight
 出海
-- 内容平台 Medium, Reddit, HackerNews, dev.to 
+- 内容平台 Medium, Reddit, HackerNews, dev.to
+- 播客平台 
+- 视频平台 
 
 
 ## 3 开源项目运营及增长
 
 ***项目成熟度 社区健康度量 开发者关系维护 内容生产与传播 活动***
 
+度量/模型 
 - Common Room  https://www.commonroom.io/
 - Orbit Model  https://app.orbit.love/
+内容生产与传播 
+- 文章 
+- 图片 
+- 视频 OBS 
+- PeerTube https://github.com/Chocobozzz/PeerTube 
 活动平台
 - meetup.com
 - lu.ma
