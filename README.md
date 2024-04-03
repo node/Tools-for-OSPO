@@ -6,14 +6,22 @@
 
 ***法律 知识产权 SCA 许可合规 供应链健康***
 
-- OpenSCA
-- FOSSA
-- SCANOSS
-- 清源SCA -安势 
-- CLA
-- DCO
-- SPDX
-- OpenSSF
+- fossology https://www.fossology.org/
+- FOSSA https://fossa.com/
+- SCANOSS https://scanoss.com/ 
+- 清源SCA  https://www.sectrend.com.cn/CleanSourceSCA  
+- OpenSCA https://opensca.xmirror.cn/ 
+- CLA https://en.wikipedia.org/wiki/Contributor_License_Agreement
+  - GitHub OSPO CLA template https://github.com/github/github-ospo/blob/main/policies/contributor-license-agreements.md 
+  - Google CLA https://opensource.google/documentation/reference/cla
+  - Microsoft CLA https://opensource.microsoft.com/cla/
+  - JetBrains CLA https://www.jetbrains.com/agreements/cla/ 
+- DCO  https://wiki.linuxfoundation.org/dco
+  - GitHub DCO app https://github.com/apps/dco
+- SPDX https://spdx.dev/
+- SBOM 
+- OpenSSF https://openssf.org/
+- OpenChain https://www.openchainproject.org/
   
 
 ## 2 开源项目基础设施
