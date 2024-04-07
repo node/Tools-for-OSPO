@@ -69,11 +69,15 @@
 度量/模型 
 - Common Room  https://www.commonroom.io/
 - Orbit Model  https://app.orbit.love/
+- 开源指南针 OSS COMPASS https://compass.gitee.com/
+- OpenDigger https://open-digger.x-lab.info/ 
+
 内容生产与传播 
 - 文章 
 - 图片 
 - 视频 OBS 
-- PeerTube https://github.com/Chocobozzz/PeerTube 
+- PeerTube https://github.com/Chocobozzz/PeerTube
+
 活动平台
 - meetup.com
 - lu.ma
