@@ -22,7 +22,7 @@
 - SBOM 
 - OpenSSF https://openssf.org/
 - OpenChain https://www.openchainproject.org/
-  
+- OSI 认证的开源协议 https://opensource.org/licenses 
 
 ## 2 开源项目基础设施
 
@@ -30,7 +30,8 @@
 
 代码托管/流水线
 - GitHub(code, issue, pr，Action-CI/CD)
-- GitLab，Gitee, Gitea, cgit 
+- GitLab，Gitee, Gitea, cgit
+  
 项目文档/知识库/网站
 - Atlassian Confluence (商业)
 - GitHub Wiki
@@ -40,6 +41,7 @@
 - hugo + docsy
 - Docusaurus + Algolia文档搜索
 - hackMD.io 
+
 沟通/协作/项目管理
 - GitHub - Discussion/Project
 - Slack
@@ -52,10 +54,12 @@
 - Zoom
 - 腾讯会议
 - strapi
+
 分析洞察
 - Google Analytics
 - GitHub Insight
 - OSS Insight
+
 出海
 - 内容平台 Medium, Reddit, HackerNews, dev.to
 - 播客平台 
