@@ -74,7 +74,8 @@
 - Common Room  https://www.commonroom.io/
 - Orbit Model  https://app.orbit.love/
 - 开源指南针 OSS COMPASS https://compass.gitee.com/
-- OpenDigger https://open-digger.x-lab.info/ 
+- OpenDigger https://open-digger.x-lab.info/
+- GrimoireLab https://chaoss.github.io/grimoirelab/ (a CHAOSS project)
 
 内容生产与传播 
 - 文章 
