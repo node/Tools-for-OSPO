@@ -22,7 +22,11 @@
 - SBOM 
 - OpenSSF https://openssf.org/
 - OpenChain https://www.openchainproject.org/
-- OSI 认证的开源协议 https://opensource.org/licenses 
+- OSI 认证的开源协议 https://opensource.org/licenses
+开源文化普及
+- OSI 开源定义 https://opensource.org/osd
+- 开源科普
+- 开源课程 
 
 ## 2 开源项目基础设施
 
@@ -50,20 +54,20 @@
 - Discourse
 - Apache Answer
 - 微信，公众号
-- 钉钉/飞书..
-- Zoom
+- 钉钉/飞书 ...
+- Zoom 
 - 腾讯会议
-- strapi
+- strapi 
 
 分析洞察
-- Google Analytics
-- GitHub Insight
-- OSS Insight
+- Google Analytics 
+- GitHub Insight 
+- OSS Insight 
 
 出海
 - 内容平台 Medium, Reddit, HackerNews, dev.to
-- 播客平台 
-- 视频平台 
+- 播客平台 Podcast 
+- 视频平台 YouTube
 
 
 ## 3 开源项目运营及增长
@@ -80,13 +84,16 @@
 内容生产与传播 
 - 文章 
 - 图片 
+- 播客 
 - 视频 OBS 
 - PeerTube https://github.com/Chocobozzz/PeerTube
+- 书籍
+- 课程 
 
 活动平台
-- meetup.com
-- lu.ma
-- 百格活动 bagevent
+- meetup.com 
+- lu.ma 
+- 百格活动 bagevent https://bagevent.com/
 
 
 ## 4  AI 赋能
@@ -98,7 +105,7 @@
 
 ## 参考资料
 
-- TODO Group指南 ：工具  
+- TODO Group 指南 ：工具  
   - https://todogroup.org/zh-cn/resources/guides/tools-for-managing-open-source-programs/  
   - https://github.com/todogroup/awesome-ospo 
   - https://todogroup.org/blog/ospo-landscape2-view/ 
