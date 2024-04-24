@@ -29,6 +29,8 @@
 - 开源课程
 - OSPO 术语表 https://ospoglossary.todogroup.org/ 
 - OSPO 思维导图 https://ospomindmap.todogroup.org/cn 
+- [Good Governance Initiative (GGI)](https://ospo-alliance.org/)
+  - [My GGI Borad(in GitLab)](https://gitlab.ow2.org/ggi/my-ggi-board)
 
 ## 2 开源项目基础设施
 
