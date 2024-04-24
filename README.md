@@ -26,7 +26,9 @@
 开源文化普及
 - OSI 开源定义 https://opensource.org/osd
 - 开源科普
-- 开源课程 
+- 开源课程
+- OSPO 术语表 https://ospoglossary.todogroup.org/ 
+- OSPO 思维导图 https://ospomindmap.todogroup.org/cn 
 
 ## 2 开源项目基础设施
 
