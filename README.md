@@ -52,16 +52,17 @@
 
 沟通/协作/项目管理
 - GitHub - Discussion/Project
-- Slack
-- Discord
+- Slack https://slack.com/
+- Discord https://discord.com/
 - Email/mail list
-- Discourse
-- Apache Answer
+- Discourse https://discourse.org/
+- Apache Answer https://answer.dev/
 - 微信，公众号
 - 钉钉/飞书 ...
-- Zoom 
+- Zoom https://zoom.us/
 - 腾讯会议
-- strapi 
+- strapi 开源Node.js headless CMS https://strapi.io/
+- Scrumlr 在线实时协作，无需注册且免费 https://scrumlr.io/
 
 分析洞察
 - Google Analytics 
