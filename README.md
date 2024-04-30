@@ -35,6 +35,8 @@
 ## 2 开源项目基础设施
 
 ***脚手架 网站 文档 出海 社区平台 沟通协作 邮件***
+脚手架与模板
+- [Qilin - Open Source project starter template](https://github.com/schalkneethling/qilin-open-source-project-starter-template)
 
 代码托管/流水线
 - GitHub(code, issue, pr，Action-CI/CD)
