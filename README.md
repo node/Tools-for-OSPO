@@ -102,7 +102,6 @@
 - lu.ma https://lu.ma/
 - 百格活动 bagevent https://bagevent.com/
 - Sessionize 演讲者议题管理平台，支持多语言 https://sessionize.com/ 
-- Scrumlr 实时在线讨论与协作平台，无需注册登录 https://scrumlr.io/
 
 ## 4  AI 赋能
 
