@@ -23,10 +23,12 @@
 - OpenSSF https://openssf.org/
 - OpenChain https://www.openchainproject.org/
 - OSI 认证的开源协议 https://opensource.org/licenses
-开源文化普及
+- RESUE.software https://reuse.software/
+  
+***开源文化普及***
 - OSI 开源定义 https://opensource.org/osd
 - 开源科普
-- 开源课程
+- 开源课程 
 - OSPO 术语表 https://ospoglossary.todogroup.org/ 
 - OSPO 思维导图 https://ospomindmap.todogroup.org/cn 
 - [Good Governance Initiative (GGI)](https://ospo-alliance.org/)
