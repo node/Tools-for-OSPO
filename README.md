@@ -2,6 +2,7 @@
 title: OSPO 工具列表
 markmap:
   colorFreezeLevel: 2
+  initialExpandLevel: 3
 ---
 
 # Tools-for-OSPO OSPO 工具列表
