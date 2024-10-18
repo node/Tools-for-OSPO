@@ -1,6 +1,6 @@
 {
-  "name": "oskm",
-  "description": "Mindmap of platform engineering",
+  "name": "ospo",
+  "description": "Tools for OSPO",
   "scripts": {
     "prebuild": "",
     "build": "npm run build:default -- --no-open",
