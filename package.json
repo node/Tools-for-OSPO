@@ -1,0 +1,15 @@
+{
+  "name": "oskm",
+  "description": "Mindmap of platform engineering",
+  "scripts": {
+    "prebuild": "",
+    "build": "npm run build:default -- --no-open",
+    "build:default": "markmap README.md --output index.html",
+    "dev": "npm run build:default -- --watch"
+  },
+  "dependencies": {
+    "markmap-cli": "^0.14.3",
+    "markmap-common": "^0.14.2"
+  },
+  "license": "CC-BY-4.0"
+}
